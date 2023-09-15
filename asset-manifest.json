@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NewsRepo-Newsomenia/static/css/main.391b1368.css",
+    "main.js": "/NewsRepo-Newsomenia/static/js/main.b3da349c.js",
+    "static/js/787.998b4c01.chunk.js": "/NewsRepo-Newsomenia/static/js/787.998b4c01.chunk.js",
+    "index.html": "/NewsRepo-Newsomenia/index.html",
+    "main.391b1368.css.map": "/NewsRepo-Newsomenia/static/css/main.391b1368.css.map",
+    "main.b3da349c.js.map": "/NewsRepo-Newsomenia/static/js/main.b3da349c.js.map",
+    "787.998b4c01.chunk.js.map": "/NewsRepo-Newsomenia/static/js/787.998b4c01.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.391b1368.css",
+    "static/js/main.b3da349c.js"
+  ]
+}
